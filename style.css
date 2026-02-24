@@ -50,7 +50,7 @@ body {
 /* Ajuste no Hover para os links */
 #menu a:hover {
     background-color: white; /* Muda para branco */
-    color: rgb(228, 0, 0); /* Texto fica vermelho como você escolheu */
+    color: rgb(228, 0, 0);
     transform: scale(1.05); /* Leve aumento */
 }
 
