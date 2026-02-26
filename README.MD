@@ -19,7 +19,7 @@ Este é um projeto de **Cartão de Visitas Digital** interativo, desenvolvido pa
 ## 🌐 Demonstração
 
 Você pode visualizar o projeto funcionando aqui: 
-[👉 Link para o seu GitHub Pages aqui](https://github.com/Nicolasdev25/cartao-digital-interativo)
+[👉 Aqui](https://github.com/Nicolasdev25/cartao-digital-interativo)
 
 ## 📝 Aprendizados
 
